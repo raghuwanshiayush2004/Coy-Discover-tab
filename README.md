@@ -26,5 +26,4 @@ Open on your phone via the "Network" URL Vite prints (same Wi-Fi).
 
 (All also available under `/api/...`.)
 
-## Privacy ("core promise of Coy")
-The `likedMe` flag exists only on the server. It is stripped from every response, so the client can never learn who liked you before a mutual match.
+
